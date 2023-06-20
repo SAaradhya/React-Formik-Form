@@ -1,4 +1,16 @@
 # Getting Started with Create React App
+IF FACING ISSUE TO RUN REACT APP THEN TYPE IN CMD THIS COMMAND TO RESOLVE THE ERROR OF SCRIPT TYPE.
+**/IMP/**
+It is an error about react-scripts file missing in your node_modules/ directory at the time of installation.
+
+Check your react-script dependency is avaliable or not in package.json.
+
+If not available then add it manually via:
+
+
+npm install react-scripts --save
+
+**/IMP/**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
